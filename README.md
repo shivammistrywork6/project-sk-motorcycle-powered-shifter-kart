@@ -2,6 +2,8 @@
 
 **Independent Student Engineering Project | Mechanical Design | Reverse Engineering | Engine Rebuilding | Fabrication**
 
+![Project SK](images/project-sk-cover.jpg)
+
 ## 1. Project Overview
 
 Project SK is an independently developed, motorcycle-powered shifter kart built around a reclaimed **Bajaj Discover 150 DTS-i** motorcycle.
